@@ -27,8 +27,8 @@ A simple and efficient web application to create, edit, and manage your notes se
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/workgs676-afk/InkDrop.git
+cd InkDrop
 ```
 
 Install dependencies:
